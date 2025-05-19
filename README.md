@@ -1,4 +1,4 @@
-# MSAZ900
+# MSAZ900 (REPLACED BY MSAZ9002025 GITHUB REPO)
 ## Microsoft Azure Fundamentals AZ-900 Exam Prep Specialization (4 course series)
 
 
